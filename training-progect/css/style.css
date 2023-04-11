@@ -18,17 +18,107 @@ body {
   padding: 88px;
 }
 
+.main-content-title{
+  font-style: normal;
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 27px;
+  color: #000000;
+  margin: 0 0 8px 0;
+}
+
 /* about me */
 
 .my-profesion {
-  margin-bottom: 180px;
+font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 17px;
+  color: #000000;
+  margin: 0 0 18px 0;
 }
-
-h2 {
-  font-size: 35px;
+.my-name {
+font-style: normal;
+  font-weight: 700;
+  font-size: 45px;
+  line-height: 55px;
+  color: #000000;
+  margin: 0 0 28px 0;
 }
-
+.my-descr {
+font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+  width: 525px;
+}
+.about-me-container{
+  margin-bottom: 64px;
+}
+/* Projects */
 .project-item {
+font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 24px;
+  color: #000000;
+}
+
+.project-list{
+  padding:0 0 0 22px;
+  margin: 0;
+}
+
+.projects-container {
+margin-bottom: 48px;
+ }
+
+.project-item-descr {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+}
+
+.project-item-link {
+  font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    text-decoration-line: underline;
+    color: #005FFF;
+}
+
+/* work-experience */
+
+.work-experience-container {
+  margin-bottom: 44px;
+}
+ .work-experiance-pocition {
+font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 20px;
+  color: #000000;
+  margin: 0;
+ }
+
+ .work-experiance-place{
+  margin-bottom: 16px;
+ }
+
+
+/* Education */
+
+.main-content-edu {
+font-style: normal;
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 27px;
+  color: #000000;
+  margin: 0 0 8px 0;
 }
 
 /* sidebar */
